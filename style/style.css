@@ -1,0 +1,34 @@
+@font-face {
+    font-family: ;
+    src: url();
+}
+
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(108,9,121,1) 0%, rgba(0,212,255,1) 100%);
+    
+}
+.a { 
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    text-decoration: none;
+}
+.a:hover {
+    color: rgb(9, 70, 204);
+    
+}
+.container {
+    position: relative;
+    width: 250px;
+    height: 500px;
+    background-color: white;
+    margin-left: 850px;
+    margin-top: 50px;
+    border-radius: 15px;
+    text-align: center;
+}
+.list {
+    font-family: 'Playpen Sans', cursive;
+    font-weight: bold;
+    font-size: 60px;
+}
